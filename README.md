@@ -5,3 +5,6 @@
 ### Aqui encontrará: 
 * Projetos reais aplicados
 * Projetos de estudo e desenvolvimento 
+
+### Ferramentas que já trabalhei:
+![Power Bi]([https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg])
